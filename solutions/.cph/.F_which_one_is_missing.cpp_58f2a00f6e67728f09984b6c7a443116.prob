@@ -1,0 +1,1 @@
+{"name":"Local: F_which_one_is_missing","url":"/home/khan/SUPC/Contest_01_659971/solutions/F_which_one_is_missing.cpp","tests":[{"id":1729518272585,"input":"5\n2 3 1 5\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/khan/SUPC/Contest_01_659971/solutions/F_which_one_is_missing.cpp","group":"local","local":true}

@@ -1,0 +1,10 @@
+{
+   "files.associations": {
+      "string": "cpp",
+      "ostream": "cpp"
+   },
+   "editor.formatOnSave": true,
+   "editor.detectIndentation": false,
+   "editor.tabSize": 3,
+   "editor.insertSpaces": true
+}
